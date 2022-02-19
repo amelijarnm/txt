@@ -1,0 +1,5 @@
+	Name:Rashchynskaya Natallia,
+	Age:39,
+	Desired salary:100500,
+	pats:no
+
