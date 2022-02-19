@@ -1,0 +1,6 @@
+       favorite movie:Forrest Gump,
+       favorite series:Dr. House,
+       favorite food:shawarma,
+       favorite season:summer,
+       favorite country:Norway
+
